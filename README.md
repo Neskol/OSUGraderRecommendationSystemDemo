@@ -1,5 +1,5 @@
 # OSU Student Grader Management System (Final Project CSE 3901)
-
+## Note: This repo is solely used for achival. Copyrights hold by original team members.
 ## Table of Contents
 
 1. [Description](#description)
